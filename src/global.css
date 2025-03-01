@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root{
+    
+    --dark-puple-900: #23222D;
+}
+
+body{
+    background: var(--dark-puple-900);
+    -webkit-font-smoothing: antialiased;
+}
