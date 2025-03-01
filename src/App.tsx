@@ -1,12 +1,10 @@
-import { Header } from './Components/Layout/Header'
+import { Layout } from './Components/Layout/Layout'
 import './global.css'
 
 function App() {
-
-
   return (
     <>
-    <Header/>
+      <Layout/>
     </>
   )
 }
